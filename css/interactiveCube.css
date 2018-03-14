@@ -4,7 +4,7 @@
   box-sizing: border-box; }
 
 body {
-  background: #1b1b1b;
+  background: #E6E6FA;
   font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
   font-weight: 300; }
 
@@ -150,3 +150,5 @@ object:hover {
     -ms-transform: scale(0.6, 0.6);
     -o-transform: scale(0.6, 0.6);
     transform: scale(0.6, 0.6); } }
+
+
